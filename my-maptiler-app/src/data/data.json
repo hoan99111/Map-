@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Nhà vọng cảnh",
+        "coordinates": [108.24571881014124, 16.13699881038354],
+        "description": "Một địa điểm ngắm cảnh tuyệt đẹp tại Đà Nẵng.",
+        "image":"https://lh5.googleusercontent.com/p/AF1QipOb5JufyiHpZzm8e9PM-jEQbBcczBf-v3ROXkku=w426-h240-k-no"
+        
+    },
+    {
+        "name": "Chùa Linh Ứng",
+        "coordinates": [108.27746272331284, 16.10277679843931],
+        "description": "Ngôi chùa nổi tiếng với tượng Phật Quan Âm lớn.",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipPwA94YPb8B3dqMEsi1KG86ik-uT1JXEqoiqQu_=w408-h544-k-no"
+    },
+    {
+        "name": "InterContinental Danang Sun Peninsula Resort",
+        "coordinates": [108.3080838614205, 16.122683157400715],
+        "description": "Khu nghỉ dưỡng sang trọng bên bờ biển.",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipMHev0YuS6RToc_PDHs-v6t89yBBJJ5nd03jfqT=w408-h271-k-no"
+    },
+    {
+        "name": "Hải đăng Sa Tiên",
+        "coordinates": [108.32278200771216, 16.142097286225404],
+        "description": "Hải đăng cổ kính với tầm nhìn ra biển.",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipNinnEpRKiIkevW947SS9JJKsZ2mb_XrB-eGoZ7=w408-h272-k-no"
+    },
+    {
+        "name": "Mũi Nghê",
+        "coordinates": [108.33594909709848, 16.12072202850415],
+        "description": "Điểm đến hoang sơ, lý tưởng để khám phá.",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipOEv7PO3fD-zGqR47ybBkaRjLNTzlueHG88yt0F=w408-h680-k-no"
+    }
+]
