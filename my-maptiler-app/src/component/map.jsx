@@ -46,6 +46,7 @@ export default function Map() {
 
     locations.forEach((location) => {
       const iconElement = customIcon.cloneNode(true);
+      customIcon.backgroundImage = `url(${location.image})`
       const marker = new maptilersdk.Marker({ element: iconElement })
         .setLngLat(location.coordinates)
         .setPopup(new maptilersdk.Popup().setHTML(`<h3>${location.name}</h3>`))
